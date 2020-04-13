@@ -5,3 +5,12 @@
   }
 
 }
+
+@media(max-width:670px) {
+  .td{
+    font-size: 15px
+  }
+  .th{
+    font-size: 10px
+  }
+}
