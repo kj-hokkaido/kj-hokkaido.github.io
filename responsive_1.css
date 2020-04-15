@@ -9,9 +9,9 @@
 @media(max-width:670px) {
 
   table td{
-    font-size: 10px;
+    font-size: 13px;
   }
   table th{
-    font-size: 8px;
+    font-size: 10px;
   }
 }
