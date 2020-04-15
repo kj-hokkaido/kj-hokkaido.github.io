@@ -11,13 +11,17 @@
 }
 
 @media(max-width:670px) {
+  *{
+    box-sizing:border-box;
+  }
+  
   table{
     width:100%;
   }
   
   table th{
     width:70%;
-    font-size: 14px;
+    font-size: 15px;
   }
     
   table td{
