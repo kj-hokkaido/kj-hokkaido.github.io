@@ -24,6 +24,7 @@ table th{
   padding-bottom: 8px;
   text-align: left;
   border-bottom: solid 1px #dee7ec
+  width:70%;
 }
 
 table td{
@@ -33,6 +34,7 @@ table td{
   padding-bottom: 8px:
   text-align: left;
   border-bottom: solid 1px #dee7ec
+  width:30%;
 }
 
 /* "table"にすると一覧が縞模様に着色 */
