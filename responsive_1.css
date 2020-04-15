@@ -7,11 +7,10 @@
 }
 
 @media(max-width:670px) {
-
-  table td{
-    font-size: 13px;
-  }
   table th{
     font-size: 10px;
+  }
+  table td{
+    font-size: 13px;
   }
 }
