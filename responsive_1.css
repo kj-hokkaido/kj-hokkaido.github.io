@@ -1,4 +1,7 @@
 @media(max-width:1000px) {
+  table{
+    width:100%;
+    
   .lesson{
     width: %;
     margin-bottom: px;
@@ -7,10 +10,16 @@
 }
 
 @media(max-width:670px) {
+  table{
+    width:100%;
+    
   table th{
+    width:70%;
     font-size: 13px;
   }
+    
   table td{
+    width:30%;
     font-size: 12px;
   }
 }
