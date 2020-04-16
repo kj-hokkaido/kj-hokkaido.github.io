@@ -23,7 +23,7 @@ table th{
   padding-top: 35px;
   padding-bottom: 8px;
   text-align: left;
-  border-bottom: solid 1px #dee7ec
+  border-bottom: solid 1px #dee7ec;
   width:70%;
 }
 
@@ -33,7 +33,7 @@ table td{
   padding-top: 35px ;
   padding-bottom: 8px:
   text-align: left;
-  border-bottom: solid 1px #dee7ec
+  border-bottom: solid 1px #dee7ec;
   width:30%;
 }
 
