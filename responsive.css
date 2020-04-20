@@ -29,5 +29,9 @@
   .top-wrapper {
     padding-top:10px;    
   }
+  
+  h1{
+    font-size:15px;
+  }
 
 }
