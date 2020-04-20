@@ -29,4 +29,13 @@
     font-size: 12px;
     padding-left:20px;
   }
+  
+  .header{
+    height:40px;
+  }
+  
+  h1{
+    font-size:20px;
+    margin-top:5px;
+  }
 }
