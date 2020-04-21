@@ -1,0 +1,62 @@
+* {
+  box-sizing:border-box;
+}
+
+body {
+  background-color:#f7f7f7;
+}
+
+.container {
+  width:100%;
+  margin:30px auto;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+table th{
+  font-family:本明朝-Book 新小がな JIS2004,HonMinSKok-Book JIS2004,serif;
+  font-size:30px;
+  padding-top: 35px;
+  padding-bottom: 8px;
+  text-align: left;
+  border-bottom: solid 1px #dee7ec;
+  width:70%;
+}
+
+table td{
+  font-family:本明朝-Book 新小がな JIS2004,HonMinSKok-Book JIS2004,serif;
+  font-size: 20px;
+  padding-top: 35px ;
+  padding-bottom: 8px:
+  text-align: left;
+  border-bottom: solid 1px #dee7ec;
+  width:30%;
+}
+
+/* "table"にすると一覧が縞模様に着色 */
+able tr:nth-child(odd){
+  background-color: rgba(0,255,0,0.3)
+}
+
+.header {
+  width:100%;
+  height:65px;
+  background-color: rgba(34, 49, 52, 0.9);
+  position:fixed;
+  top:0;
+  z-index:9;
+}
+
+h1 {
+  font-family:本明朝-Book 新小がな JIS2004,HonMinSKok-Book JIS2004,serif;
+  font-size:px;
+  color:#fff;
+  margin-top:15px;
+  position:fixed;
+  top:0;
+  z-index:10;
+}
