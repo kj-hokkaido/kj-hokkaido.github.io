@@ -1,0 +1,41 @@
+@media(max-width:1000px) {
+  table{
+    width:100%;
+  }
+    
+  .lesson{
+    width: %;
+    margin-bottom: px;
+  }
+
+}
+
+@media(max-width:670px) {
+  *{
+    box-sizing:border-box;
+  }
+  
+  table{
+    width:100%;
+  }
+  
+  table th{
+    width:70%;
+    font-size: 15px;
+  }
+    
+  table td{
+    width:30%;
+    font-size: 12px;
+    padding-left:20px;
+  }
+  
+  .header{
+    height:40px;
+  }
+  
+  h1{
+    font-size:20px;
+    margin-top:5px;
+  }
+}
